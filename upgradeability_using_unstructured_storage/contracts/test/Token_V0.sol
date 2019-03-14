@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 import './Ownable.sol';
-import 'zeppelin-solidity/contracts/math/SafeMath.sol';
+import '../../../zeppelin-solidity/contracts/math/SafeMath.sol';
 
 /**
  * @title Token_V0
